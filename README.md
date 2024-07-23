@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">Actively looking for opportunities in Data Science & Analytics.</h3>
+<h3 align="center">Actively looking for opportunities in Data Science & Business Intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh-1703&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh-1703" /> </p>
 
