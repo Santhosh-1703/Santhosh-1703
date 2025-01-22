@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/@santhosh172405" target="blank"><img src="https://img.shields.io/twitter/follow/@santhosh172405?logo=twitter&style=for-the-badge" alt="@santhosh172405" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Excel, PowerBI, Tableau, Python, SQL, Machine Learning Concepts**
+- 🌱 I’m currently enhancing knowledge on **Advanced Excel, PowerBI, Tableau, Python, SQL, Machine Learning, Deep Learning & Gen-AI Concepts**
 
-- 👯 I’m looking to collaborate on **involving Data analysis, uncovering valuable insights, and creating Data-driven solutions. I am particularly interested in working on initiatives that leverage data to solve complex problems, improve Decision-making processes, and drive Business growth.**
+- 👯 I’m looking to collaborate on **involving Data analysis, uncovering valuable insights & creating Data-driven solutions. I am particularly interested in working on initiatives that leverage data to solve complex problems, improve Decision-making processes & drive Business growth.**
 
 - 🤝 I’m looking for help with **all Data science domain projects.**
 
-- 👨‍💻 All of my projects are available at [https://srportfolio17-8dd7c212596c.herokuapp.com/](https://srportfolio17-8dd7c212596c.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://srportfolio17-8dd7c212596c.herokuapp.com/](https://srportfolio17-8dd7c212596c.herokuapp.com/) & Portfolio - [https://santhosh-1703.github.io/Portfolio_SR/]
 
 - 💬 Ask me about **Data Visualisation, Machine Learning, Deep Learning Models**
 
 - 📫 How to reach me **santhoshsrajendran@gmail.com**
 
-- ⚡ Fun fact **I create memes related to knowledge and processes. It's a unique way I blend humor with learning, making complex topics more engaging and easier to understand.**
+- ⚡ Fun fact **I create memes related to knowledge and processes. It's a unique way I blend humor with learning, making complex topics more engaging & easier to understand.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
